@@ -178,3 +178,76 @@ width: 30%;
 .box p{
     margin-left: 15px;
 }
+.contain-section3{
+    background-color: #87a471;
+    padding-bottom: 150px;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+.img3{
+    height: 300px;
+    width: 350px;
+    border: 2px solid black;
+    margin-left: 100px;
+    color:#375c69 ;
+    margin-top: 30px;
+}
+
+.img4{
+    height: 300px;
+    width: 350px;
+    border: 2px solid black;
+    margin-right: 100px;
+    color: #375c69;
+    margin-top: 30px;
+}
+.img3 h4{
+    color: white;
+}
+.img4 h4{
+    color:white;
+}
+.setting{
+    height: 170px;
+    width: 190px;
+    margin: 5px;
+    margin-top: 20px;
+}
+.cointain-section4{
+    background-color:#5b9776 ;
+    height: 350px;
+    
+}
+.section5 h3{ padding: 20px 0px;
+text-decoration: underline;}
+.section-6{
+    text-align: center;
+}
+.last-image{
+    width: 33%;
+}
+
+.last-image i{
+    color: white;
+    margin-left:15px;
+   
+
+}
+.section-6icon{
+margin-left: 30px;
+}
+.contain-section7{
+    background-color:#606a64 ;
+    padding: 20px 0px;
+    color: white;
+}
+.defoult-btn3{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-color:#58df5a;
+   
+    margin-top: 10px;
+    display: inline-block;
+}
