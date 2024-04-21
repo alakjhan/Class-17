@@ -124,7 +124,9 @@ img {}
 .banner-section {
     padding: 150px 0px;
     background-size: cover;
-    background: url(./434051134_967982277693436_840336107057566029_n.jpg)center center;
+    background-image: url(./434051134_967982277693436_840336107057566029_n.jpg);
+    background-repeat: no-repeat;
+background-position: center;
 }
 
 .banner-content {
